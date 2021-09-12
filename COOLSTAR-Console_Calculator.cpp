@@ -198,7 +198,7 @@ class other {
 			system ("cls");
 			cout <<"\n About \n";
 			cout <<" -----\n";
-		    cout <<"\n  [program version - 1.06] \n";
+		    	cout <<"\n  [program version - 1.06] \n";
 			cout <<"  copy right @2012 E.C / 2020 G.C\n";
 			cout <<"  Program Devloper <CoolStar 73>\n";
 			cout <<"  Devloped date thuesday, march 10, 2020 G.C\n";
